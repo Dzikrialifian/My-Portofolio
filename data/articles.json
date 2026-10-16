@@ -1,0 +1,67 @@
+[
+  {
+    "id": "act-1",
+    "title": "Key Insights: Google Gemini Campus Tour Surabaya",
+    "category": "Event / Tech Tour",
+    "date": "August 2026",
+    "summary": "Menghadiri sesi eksplorasi teknologi AI terbaru bersama Google, mendalami kapabilitas Google Gemini multimodal API, ekosistem AI generatif, serta implementasi praktis solusi AI di industri dan kampus.",
+    "tags": [
+      "Google Gemini",
+      "Tech Tour",
+      "Generative AI",
+      "Multimodal",
+      "Surabaya"
+    ],
+    "type": "Event & Workshop",
+    "icon": "fa-google",
+    "link": "#"
+  },
+  {
+    "id": "act-2",
+    "title": "My Journey: Google Student Ambassador Candidate Batch 2",
+    "category": "Application & Journey",
+    "date": "August 2026",
+    "summary": "Pengalaman dan perjalanan seleksi sebagai kandidat Google Student Ambassador (GSA) Batch 2, berfokus pada kepemimpinan teknologi di lingkungan kampus, pemberdayaan komunitas mahasiswa, dan kolaborasi ekosistem digital.",
+    "tags": [
+      "GSA Candidate",
+      "Leadership",
+      "Google Community",
+      "Tech Ambassador"
+    ],
+    "type": "Leadership Program",
+    "icon": "fa-compass",
+    "link": "#"
+  },
+  {
+    "id": "act-3",
+    "title": "Volunteer Experience: Pasukan Baik Program",
+    "category": "Community Service",
+    "date": "2026",
+    "summary": "Berperan aktif dalam program aksi sosial dan pengabdian masyarakat 'Pasukan Baik', mendedikasikan waktu, tenaga, dan kolaborasi positif untuk mendukung kegiatan kemanusiaan dan dampak sosial nyata.",
+    "tags": [
+      "Volunteering",
+      "Community Impact",
+      "Social Action",
+      "Teamwork"
+    ],
+    "type": "Social & Community",
+    "icon": "fa-hands-holding-heart",
+    "link": "#"
+  },
+  {
+    "id": "act-4",
+    "title": "Participant at Techvolution 3",
+    "category": "Hackathon / Event",
+    "date": "June 2026",
+    "summary": "Berpartisipasi aktif dalam ajang kompetisi teknologi berskala nasional Techvolution 3, mengasah kemampuan pemecahan masalah (problem-solving), kolaborasi tim, serta perancangan gagasan solusi teknologi mutakhir.",
+    "tags": [
+      "Techvolution 3",
+      "Hackathon",
+      "Innovation",
+      "Informatics Engineering"
+    ],
+    "type": "Competition & Hackathon",
+    "icon": "fa-trophy",
+    "link": "#"
+  }
+]

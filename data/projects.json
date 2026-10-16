@@ -1,0 +1,82 @@
+[
+  {
+    "id": "idk-rag-navasena",
+    "repoName": "idk-rag-navasena",
+    "title": "RAG Chatbot System (Hacktiv8 Bootcamp)",
+    "category": "Machine Learning / AI",
+    "description": "Sistem Chatbot RAG berbasis LLM & Vector Search yang dikembangkan saat bootcamp Hacktiv8 untuk pengolahan dan penelusuran dokumen cerdas berakurasi tinggi.",
+    "techStack": ["Python", "LangChain", "RAG", "Vector DB", "Gemini API"],
+    "githubUrl": "https://github.com/Dzikrialifian/idk-rag-navasena",
+    "demoUrl": ""
+  },
+  {
+    "id": "chatBot",
+    "repoName": "chatBot",
+    "title": "Interactive Conversational Chatbot",
+    "category": "Machine Learning / AI",
+    "description": "Aplikasi chatbot pintar yang memanfaatkan integrasi Natural Language Processing dan model AI untuk merespons percakapan secara dinamis dan kontekstual.",
+    "techStack": ["Python", "NLP", "Gemini API", "AI Chatbot"],
+    "githubUrl": "https://github.com/Dzikrialifian/chatBot",
+    "demoUrl": ""
+  },
+  {
+    "id": "MediFirst",
+    "repoName": "MediFirst",
+    "title": "MediFirst - AI Health Triage Assistant",
+    "category": "Machine Learning / AI",
+    "description": "Asisten triase kesehatan berbasis AI yang memandu pengguna menganalisis gejala awal melalui dialog terstruktur dan rekomendasi pertolongan pertama yang aman.",
+    "techStack": ["Python", "Healthcare AI", "Prompt Engineering", "Decision Tree"],
+    "githubUrl": "https://github.com/Dzikrialifian/MediFirst",
+    "demoUrl": ""
+  },
+  {
+    "id": "Streamlit",
+    "repoName": "Streamlit",
+    "title": "Streamlit Interactive Data Apps",
+    "category": "Web & Data Science",
+    "description": "Koleksi visualisasi data dan antarmuka web interaktif berbasis Streamlit untuk eksplorasi dataset sains data dan machine learning.",
+    "techStack": ["Python", "Streamlit", "Data Science", "Pandas"],
+    "githubUrl": "https://github.com/Dzikrialifian/Streamlit",
+    "demoUrl": ""
+  },
+  {
+    "id": "PinExtractor",
+    "repoName": "PinExtractor",
+    "title": "PinExtractor Cryptographic Utility",
+    "category": "Python Development",
+    "description": "Program utilitas Python untuk mengekstraksi kode rahasia dan representasi steganografi teks menggunakan panjang kata puitis.",
+    "techStack": ["Python", "Cryptography", "Algorithms", "String Parsing"],
+    "githubUrl": "https://github.com/Dzikrialifian/PinExtractor",
+    "demoUrl": ""
+  },
+  {
+    "id": "CaesarCipher",
+    "repoName": "CaesarCipher",
+    "title": "Caesar Cipher Security Tool",
+    "category": "Cybersecurity",
+    "description": "Implementasi algoritma kriptografi klasik Caesar Cipher untuk enkripsi dan dekripsi teks berbasis Python dengan validasi kunci modular.",
+    "techStack": ["Python", "Cybersecurity", "Classic Cipher", "Encryption"],
+    "githubUrl": "https://github.com/Dzikrialifian/CaesarCipher",
+    "demoUrl": ""
+  },
+  {
+    "id": "RPG_Character",
+    "repoName": "RPG_Character",
+    "title": "RPG Character Simulator",
+    "category": "Python Development",
+    "description": "Program simulasi kreasi karakter RPG berbasis Object-Oriented Programming (OOP) dengan validasi atribut status dan manajemen inventaris.",
+    "techStack": ["Python", "OOP", "CLI", "Game Logic"],
+    "githubUrl": "https://github.com/Dzikrialifian/RPG_Character",
+    "demoUrl": ""
+  },
+  {
+    "id": "dzikrialifian-portfolio",
+    "repoName": "dzikrialifian.github.io",
+    "title": "Dzikri.dev Developer Portfolio",
+    "category": "Web Development",
+    "description": "Website portofolio developer modern bertema minimalist code editor dengan integrasi real-time GitHub REST API, arsitektur data hybrid, dan performa tinggi.",
+    "techStack": ["HTML5", "Vanilla CSS", "JavaScript", "GitHub REST API", "Glassmorphism"],
+    "githubUrl": "https://github.com/Dzikrialifian/dzikrialifian.github.io",
+    "demoUrl": "https://dzikrialifian.github.io"
+  }
+]
